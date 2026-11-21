@@ -23,6 +23,15 @@
       "duration": 30,
       "image": "",
       "active": true
+    },
+    {
+      "id": "svc-1795287204939",
+      "name": "31132132132",
+      "description": "21312312321",
+      "price": 12000,
+      "duration": 30,
+      "image": "",
+      "active": false
     }
   ],
   "weeklyAvailability": {
