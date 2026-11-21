@@ -19,10 +19,8 @@
         <div class="step-heading"><span class="step-number">01</span><div><h3>Elige tu servicio</h3><p>¿Qué te gustaría agendar?</p></div></div>
         <label for="service-select">Servicio</label><select id="service-select" required><option value="">Selecciona un servicio</option></select>
         <div id="custom-cut" class="custom-cut hidden">
-          <label for="custom-cut-name">Nombre del corte</label>
-          <input id="custom-cut-name" type="text" maxlength="120" placeholder="Ejemplo: Taper Fade">
-          <label for="custom-cut-description">Descripción</label>
-          <textarea id="custom-cut-description" rows="4" maxlength="800" placeholder="Describe cómo quieres el corte"></textarea>
+          <div id="custom-cut-name-wrap"><label for="custom-cut-name">Nombre del corte</label><input id="custom-cut-name" type="text" maxlength="120" placeholder="Ejemplo: Taper Fade"></div>
+          <div id="custom-cut-description-wrap"><label for="custom-cut-description">Descripción</label><textarea id="custom-cut-description" rows="4" maxlength="800" placeholder="Describe cómo quieres el corte"></textarea></div>
         </div>
         <div class="form-row"><div><label for="booking-date">Fecha</label><input id="booking-date" type="date" required></div><div><label for="time-select">Hora disponible</label><select id="time-select" disabled><option value="">Primero elige una fecha</option></select></div></div>
         <div class="step-heading second-step"><span class="step-number">02</span><div><h3>Tus datos</h3><p>Para poder contactarte.</p></div></div>
