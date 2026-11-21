@@ -1,0 +1,19 @@
+{
+  "business": {
+    "name": "Sancor",
+    "title": "Un espacio para ti.",
+    "description": "Explora nuestros servicios y encuentra el momento ideal para agendar.",
+    "whatsapp": ""
+  },
+  "services": [],
+  "weeklyAvailability": {
+    "1": {"enabled": true, "start": "09:00", "end": "17:00"},
+    "2": {"enabled": true, "start": "09:00", "end": "17:00"},
+    "3": {"enabled": true, "start": "09:00", "end": "17:00"},
+    "4": {"enabled": true, "start": "09:00", "end": "17:00"},
+    "5": {"enabled": true, "start": "09:00", "end": "17:00"},
+    "6": {"enabled": false, "start": "09:00", "end": "17:00"},
+    "0": {"enabled": false, "start": "09:00", "end": "17:00"}
+  },
+  "dateAvailability": {}
+}
