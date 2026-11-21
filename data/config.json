@@ -3,17 +3,55 @@
     "name": "Sancor",
     "title": "Un espacio para ti.",
     "description": "Explora nuestros servicios y encuentra el momento ideal para agendar.",
-    "whatsapp": ""
+    "whatsapp": "573189516377"
   },
-  "services": [],
+  "services": [
+    {
+      "id": "svc-1795276573238",
+      "name": "corte epico",
+      "description": "Ven aqui y te hago un corte muy epico",
+      "price": 50000,
+      "duration": 30,
+      "image": "https://modaellos.com/wp-content/uploads/2022/04/los-mejores-cortes-de-pelo-takuache-cuh-para-hombres-2022-clasico-istock-1229x1536.jpg",
+      "active": true
+    }
+  ],
   "weeklyAvailability": {
-    "1": {"enabled": true, "start": "09:00", "end": "17:00"},
-    "2": {"enabled": true, "start": "09:00", "end": "17:00"},
-    "3": {"enabled": true, "start": "09:00", "end": "17:00"},
-    "4": {"enabled": true, "start": "09:00", "end": "17:00"},
-    "5": {"enabled": true, "start": "09:00", "end": "17:00"},
-    "6": {"enabled": false, "start": "09:00", "end": "17:00"},
-    "0": {"enabled": false, "start": "09:00", "end": "17:00"}
+    "0": {
+      "enabled": false,
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "1": {
+      "enabled": true,
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "2": {
+      "enabled": true,
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "3": {
+      "enabled": true,
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "4": {
+      "enabled": true,
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "5": {
+      "enabled": true,
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "6": {
+      "enabled": false,
+      "start": "09:00",
+      "end": "17:00"
+    }
   },
   "dateAvailability": {}
 }
