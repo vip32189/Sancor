@@ -1,37 +1,64 @@
 {
   "business": {
-    "name": "101010111100101010111",
-    "title": "11001101010101010101010110",
-    "description": "1101011011110101010001010110110111110010110101010111101001000110010110101010101010001011010101001110110101001010100001010001010100101010000101010101011010101110101101010101010100101001111110010110",
+    "name": "Orva",
+    "title": "Orva",
+    "description": "Orva_barber",
     "whatsapp": "573189516377"
   },
   "services": [
     {
-      "id": "svc-1795287000675",
-      "name": "Peluqueado con imagen",
-      "description": "Wow",
-      "price": 5000,
-      "duration": 20,
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-06/16/11/asset/buzzfeed-prod-web13/sub-buzz-25504-1466090181-5.jpg?crop=862:572;0,152&resize=1250:830",
+      "id": "svc-1795296176258",
+      "name": "Corte Clásico",
+      "description": "Corte con pelo largo",
+      "price": 16000,
+      "duration": 30,
+      "image": "https://th.bing.com/th/id/R.37a2807cd74f24e1be18313d6b8eed66?rik=ppp72ZXvlLMETA&pid=ImgRaw&r=0",
       "active": true
     },
     {
-      "id": "svc-1795287028155",
-      "name": "Corte sin imagen 😭",
-      "description": "☠️",
-      "price": 60000,
+      "id": "svc-1795296304145",
+      "name": "Fletap",
+      "description": "Corte nuevo",
+      "price": 14000,
       "duration": 30,
-      "image": "",
+      "image": "https://i.pinimg.com/originals/aa/9b/51/aa9b518ce943d88ec030be2352198554.jpg",
       "active": true
     },
     {
-      "id": "svc-1795287204939",
-      "name": "31132132132",
-      "description": "21312312321",
-      "price": 12000,
+      "id": "svc-1795296363314",
+      "name": "Mullet",
+      "description": "Un mullet",
+      "price": 15000,
       "duration": 30,
-      "image": "",
-      "active": false
+      "image": "https://i.pinimg.com/originals/02/24/da/0224da87f0469a92cd6764e743cffc92.webp",
+      "active": true
+    },
+    {
+      "id": "svc-1795296432009",
+      "name": "Moicano",
+      "description": "Estilo nuevo?",
+      "price": 10000,
+      "duration": 30,
+      "image": "https://www.loreal-paris.com.br/-/media/project/loreal/brand-sites/oap/americas/br/artigos-2024/cabelo/hair-care/cabelo-moicano/moicano-classico.jpg?w=1170&hash=103223AE8DB89BC9E2BA1D6A33CB2B04",
+      "active": true
+    },
+    {
+      "id": "svc-1795296508457",
+      "name": "Buzz",
+      "description": "Corte bajo, buzz.",
+      "price": 16000,
+      "duration": 30,
+      "image": "https://tse1.explicit.bing.net/th/id/OIP.jnsBgqNKj4wdVT9CFsGt3QHaJs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "active": true
+    },
+    {
+      "id": "svc-1795296633217",
+      "name": "Low Taper Fade",
+      "description": "Low Taper",
+      "price": 15000,
+      "duration": 30,
+      "image": "https://cdn.shopify.com/s/files/1/0255/2417/4922/files/low_taper_fade_long_top_1.jpg?v=1716288423",
+      "active": true
     }
   ],
   "weeklyAvailability": {
@@ -73,6 +100,14 @@
   },
   "dateAvailability": {
     "2026-12-25": {
+      "closed": true,
+      "times": []
+    },
+    "2026-11-24": {
+      "closed": true,
+      "times": []
+    },
+    "2026-12-31": {
       "closed": true,
       "times": []
     }
