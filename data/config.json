@@ -70,6 +70,16 @@
       "active": true
     }
   ],
+  "products": [
+    {
+      "id": "prd-1795380783530",
+      "name": "Spray de agua",
+      "description": "Agua al pelo",
+      "price": 20000,
+      "image": "https://barberalia.com/wp-content/uploads/2024/04/Hair_Spray__05704.jpg",
+      "active": true
+    }
+  ],
   "weeklyAvailability": {
     "0": {
       "enabled": false,
