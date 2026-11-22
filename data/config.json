@@ -59,6 +59,15 @@
       "duration": 30,
       "image": "https://cdn.shopify.com/s/files/1/0255/2417/4922/files/low_taper_fade_long_top_1.jpg?v=1716288423",
       "active": true
+    },
+    {
+      "id": "svc-1795378614259",
+      "name": "Corte Sencillo",
+      "description": "Reserva un corte sencillo...",
+      "price": 15000,
+      "duration": 30,
+      "image": "https://tse3.mm.bing.net/th/id/OIP.kT5VSkxefuFmSR1o3R6B3AHaDL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "active": true
     }
   ],
   "weeklyAvailability": {
@@ -104,8 +113,10 @@
       "times": []
     },
     "2026-11-24": {
-      "closed": true,
-      "times": []
+      "closed": false,
+      "times": [
+        "09:00"
+      ]
     },
     "2026-12-31": {
       "closed": true,
