@@ -78,6 +78,14 @@
       "price": 20000,
       "image": "https://barberalia.com/wp-content/uploads/2024/04/Hair_Spray__05704.jpg",
       "active": true
+    },
+    {
+      "id": "prd-1795381050714",
+      "name": "Spray de agua2",
+      "description": "htrhdga",
+      "price": 20000,
+      "image": "https://barberalia.com/wp-content/uploads/2024/04/Hair_Spray__05704.jpg",
+      "active": true
     }
   ],
   "weeklyAvailability": {
