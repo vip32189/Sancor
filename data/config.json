@@ -86,6 +86,14 @@
       "price": 20000,
       "image": "https://barberalia.com/wp-content/uploads/2024/04/Hair_Spray__05704.jpg",
       "active": true
+    },
+    {
+      "id": "prd-1795381166834",
+      "name": "Spray de agua3",
+      "description": "gsd",
+      "price": 20000,
+      "image": "https://barberalia.com/wp-content/uploads/2024/04/Hair_Spray__05704.jpg",
+      "active": true
     }
   ],
   "weeklyAvailability": {
